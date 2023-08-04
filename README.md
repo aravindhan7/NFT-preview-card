@@ -16,7 +16,7 @@ This is a solution to the [NFT preview card component solution challenge on Fron
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/Interactive-rating-component]
+- Solution URL: [https://github.com/aravindhan7/NFT-preview-card]
 - Live Site URL: [https://aravindhan7.github.io/Interactive-rating-component]
 
 
